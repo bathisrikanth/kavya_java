@@ -38,7 +38,7 @@ public class Main {
         System.out.println(a);
         ptTest(a);
         System.out.println(a);
-
+        linkedList.insert(22);
 
 
         // int, float, boolean, double
